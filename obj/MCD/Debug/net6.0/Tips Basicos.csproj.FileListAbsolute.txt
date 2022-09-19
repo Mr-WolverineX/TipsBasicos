@@ -1,0 +1,30 @@
+C:\Users\sonia\Desktop\Tips Basicos\bin\MCD\Debug\net6.0\Tips Basicos.exe
+C:\Users\sonia\Desktop\Tips Basicos\bin\MCD\Debug\net6.0\Tips Basicos.deps.json
+C:\Users\sonia\Desktop\Tips Basicos\bin\MCD\Debug\net6.0\Tips Basicos.runtimeconfig.json
+C:\Users\sonia\Desktop\Tips Basicos\bin\MCD\Debug\net6.0\Tips Basicos.dll
+C:\Users\sonia\Desktop\Tips Basicos\bin\MCD\Debug\net6.0\Tips Basicos.pdb
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.csproj.AssemblyReference.cache
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.AssemblyInfoInputs.cache
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.AssemblyInfo.cs
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.dll
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\refint\Tips Basicos.dll
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.pdb
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\Tips Basicos.genruntimeconfig.cache
+C:\Users\sonia\Desktop\Tips Basicos\obj\MCD\Debug\net6.0\ref\Tips Basicos.dll
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.csproj.AssemblyReference.cache
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.AssemblyInfoInputs.cache
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.AssemblyInfo.cs
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.dll
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\refint\Tips Basicos.dll
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.pdb
+C:\Users\sonia\Desktop\TipsBasicos\bin\MCD\Debug\net6.0\Tips Basicos.exe
+C:\Users\sonia\Desktop\TipsBasicos\bin\MCD\Debug\net6.0\Tips Basicos.deps.json
+C:\Users\sonia\Desktop\TipsBasicos\bin\MCD\Debug\net6.0\Tips Basicos.runtimeconfig.json
+C:\Users\sonia\Desktop\TipsBasicos\bin\MCD\Debug\net6.0\Tips Basicos.dll
+C:\Users\sonia\Desktop\TipsBasicos\bin\MCD\Debug\net6.0\Tips Basicos.pdb
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\Tips Basicos.genruntimeconfig.cache
+C:\Users\sonia\Desktop\TipsBasicos\obj\MCD\Debug\net6.0\ref\Tips Basicos.dll
